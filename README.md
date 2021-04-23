@@ -9,7 +9,7 @@
 # The Forge: A Reforge Companion App
 Project for CEN 3073 - Requirements Engineering & Analysis
 ## Project Details
-For this project I partnered with a local small business, named Secret Boss Games, to construct software requirements for a proposed soulution to thier business goals. The software solution is a companion dice app for a table top game. While completing this project the analysis of software requirements, and the study of requirements engineering tools and techniques was conducted. 
+For this project I partnered with a local small business, named Secret Boss Games, to construct software requirements for a proposed software solution to thier business goals. The software solution is a companion dice app for a table top game. While completing this project the analysis of software requirements, and the study of requirements engineering tools and techniques was conducted. 
 Focus was on the understanding and completion of:
 - Requirements Elicitation
 - Requirements Analysis

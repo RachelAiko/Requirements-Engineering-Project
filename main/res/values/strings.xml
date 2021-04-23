@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ReforgePrototype</string>
+    <string name="roll">Roll</string>
+    <string name="let_roll">Let Roll</string>
+</resources>

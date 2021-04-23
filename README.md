@@ -18,6 +18,8 @@ Focus was on the understanding and completion of requirements:
 
 ## Documentation
 [Elicitation Report](https://github.com/RachelAiko/Requirements-Engineering-Project/blob/main/Elicitation%20Report.pdf)
+[Analysis Report] (https://github.com/RachelAiko/Requirements-Engineering-Project/blob/main/Analysis%20Report.pdf)
+
 
 ## Mockup
 The mockup that was created for the project:

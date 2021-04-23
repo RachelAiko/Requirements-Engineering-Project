@@ -17,7 +17,7 @@ Focus was on the understanding and completion of requirements:
 - Validation
 
 ## Documentation
-![Elicitation Report](https://github.com/RachelAiko/Requirements-Engineering-Project/blob/main/Elicitation%20Report.pdf)
+[Elicitation Report](https://github.com/RachelAiko/Requirements-Engineering-Project/blob/main/Elicitation%20Report.pdf)
 
 
 

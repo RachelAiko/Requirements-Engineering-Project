@@ -25,20 +25,19 @@ Focus was on the understanding and completion of requirements:
 
 [Validation Report](https://github.com/RachelAiko/Requirements-Engineering-Project/blob/main/Validation%20Report.pdf)
 
-## Mockup
-The mockup that was created for the project:
-
-![Mockup](https://github.com/RachelAiko/Requirements-Engineering-Project/blob/main/reforge_app_design_mockup.png) 
-
-
 ## Tools Utilized
 - Jira
 - Proto.io
 - Android Studio
 
+## Mockup
+The mockup that was created for the project:
+
+![Mockup](https://github.com/RachelAiko/Requirements-Engineering-Project/blob/main/reforge_app_design_mockup.png = 200 x 400) 
+
+
 ## Author
 
 Rachel Matthews <ramatthews7888@eagle.fgcu.edu>
 
-## Key Programming Concepts Used
 
